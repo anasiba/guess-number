@@ -5,7 +5,7 @@ export default function Header() {
     <div>
       <h1>Guess Number App </h1>
       <p>
-        you's a little of your brain to solve this problem{" "}
+       use a little of your brain to solve this problem
         <span role="img" aria-label="brain-emoji">
           🧠
         </span>
